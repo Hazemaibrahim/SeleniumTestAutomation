@@ -1,6 +1,6 @@
 # Web Test Automation Project
 
-This project is a web test automation framework developed using Selenium, Java, and TestNG. The purpose of this project is to automate the testing of [Your Website/Application], ensuring its functionality.
+This project is a web test automation framework developed using Selenium, Java, and TestNG. The purpose of this project is to automate the testing of [https://trytestingthis.netlify.app/], ensuring its functionality.
 
 Tools used:
 
