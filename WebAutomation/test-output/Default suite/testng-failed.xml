@@ -6,8 +6,8 @@
       <class name="webAutomation.TestCases">
         <methods>
           <include name="invalidloginTest"/>
-          <include name="setUpTest"/>
           <include name="tearDownTest"/>
+          <include name="setUpTest"/>
         </methods>
       </class> <!-- webAutomation.TestCases -->
     </classes>
