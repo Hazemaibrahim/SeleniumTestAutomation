@@ -5,6 +5,9 @@ This project is a web test automation framework developed using Selenium, Java, 
 Tools used:
 
 *Java Development Kit (JDK): Java 8 or higher
+
 *Maven: For managing project dependencies
+
 *Selenium WebDriver: WebDriver for browser automation
+
 *TestNG: Testing framework for Java
